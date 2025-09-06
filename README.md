@@ -1,1 +1,1 @@
-# Blinkit_Sales_Project
+# blinkit-sales-analytics
