@@ -1,13 +1,11 @@
 # Blinkit Sales Analysis (Python + Power BI)
-1. Project Overview
 
-
-2. Business Requirement
+1. Business Requirement
 
   To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using various KPIs and 
   visualizations in Power BI and Python.
 
-3. Steps Followed
+2. Steps Followed
 
   * Data Walkthrough: Understanding the dataset and features.
   * Data Connection: Importing into Python (Pandas) and Power BI.
@@ -18,7 +16,7 @@
   * Charts & Visuals
   * Insights: Key findings from the analysis.
 
-4. Tech Stack
+3. Tech Stack
 
   * Python (Pandas, Matplotlib/Seaborn)
   * Power BI
